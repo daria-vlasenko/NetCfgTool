@@ -1,8 +1,0 @@
-/home/eq92h/netcfgtool/build/CMakeFiles/NetCfgTool.dir
-/home/eq92h/netcfgtool/build/CMakeFiles/NetCfgToolTests.dir
-/home/eq92h/netcfgtool/build/CMakeFiles/edit_cache.dir
-/home/eq92h/netcfgtool/build/CMakeFiles/rebuild_cache.dir
-/home/eq92h/netcfgtool/build/CMakeFiles/NetCfgTool_autogen_timestamp_deps.dir
-/home/eq92h/netcfgtool/build/CMakeFiles/NetCfgTool_autogen.dir
-/home/eq92h/netcfgtool/build/CMakeFiles/NetCfgToolTests_autogen_timestamp_deps.dir
-/home/eq92h/netcfgtool/build/CMakeFiles/NetCfgToolTests_autogen.dir
